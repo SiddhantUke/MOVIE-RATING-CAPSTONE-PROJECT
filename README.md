@@ -1,0 +1,1 @@
+The project employs machine learning techniques to analyze the data and uncover any biases in Fandango's ratings. This involves using various machine learning models to predict ratings and compare them against actual ratings to identify discrepancies and potential biases.
